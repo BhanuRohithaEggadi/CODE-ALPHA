@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#form-container {
+    margin-top: 20px;
+}
+
+#quiz-container,
+#score-container {
+    display: none;
+    margin-top: 20px;
+}
+
+button {
+    margin-right: 10px;
+}
